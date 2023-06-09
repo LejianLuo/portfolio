@@ -5,7 +5,7 @@ export default function Project(){
     const [sites,setWebsites]=useState(websites);
     return(
         <div id='Project' className='mx-auto w-[310px] md:w-[600px] lg:w-[1000px] pb-[100px]'>
-           <h1 className='animate-textEnlarge  text-center text-5xl my-[20px] font-black text-orange-400'>Project</h1>
+           <h1 className='animate-textEnlarge  text-center text-5xl my-[20px] font-black text-purple-600'>Project</h1>
             {sites.map(site=>(<Website site={site}/>))}
         </div>
     )

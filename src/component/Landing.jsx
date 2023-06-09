@@ -4,12 +4,12 @@ export default function Landing(){
     return(
         <div id='Landing' className='mx-auto relative -top-[50px]'> 
             <div className='w-[310px] md:w-[600px] lg:w-[800px] mx-auto py-[150px]'>
-                <h1 className='animate-textEnlarge text-5xl my-[20px] font-black text-orange-400'>Hello, I am Lejian</h1>
+                <h1 className='animate-textEnlarge text-5xl my-[20px] font-black text-purple-600'>Hello, I am Lejian</h1>
                 <p className='text-gray-500 mb-[30px]'> As a web developer, I enjoy the process of coding, tuning, and deploying web apps. I have experience building web apps with <strong>React, ExpressJS, and MongoDB</strong>. 
                     I aim to learn a wide variety of frameworks and languages, and work as a fullstack developer in the future.</p>
                 <div className='flex gap-[50px] justify-start'>
                     <a className='rounded-full w-[40px] hover:w-[45px]' href="https://github.com/LejianLuo"><img src='https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png' alt='img'/></a>
-                    <p className='font-bold text-gray-400'>luolejian@outlook.com</p>
+                    <p className='font-bold text-purple-300'>luolejian@outlook.com</p>
                 </div>
                 <Skill/>
             </div>
