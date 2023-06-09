@@ -9,7 +9,7 @@ export default function Landing(){
                     I aim to learn a wide variety of frameworks and languages, and work as a fullstack developer in the future.</p>
                 <div className='flex gap-[50px] justify-start'>
                     <a className='rounded-full w-[40px] hover:w-[45px]' href="https://github.com/LejianLuo"><img src='https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png' alt='img'/></a>
-                    <p className='font-bold text-purple-300'>luolejian@outlook.com</p>
+                    <p className='font-bold text-purple-600'>luolejian@outlook.com</p>
                 </div>
                 <Skill/>
             </div>
@@ -21,7 +21,7 @@ export default function Landing(){
 
 export function Navigation(){
     return(
-        <div className='sticky top-[20px] mx-auto w-[200px] p-[10px] bg-purple-100 z-20 flex justify-center gap-[20px] text-gray-500 font-bold border-4 border-gray-200'>
+        <div className='sticky top-[20px] mx-auto w-[210px] p-[10px] bg-purple-100 z-20 flex justify-center gap-[20px] text-gray-700 font-black border-2'  style={{backgroundImage:`url('https://static.vecteezy.com/system/resources/thumbnails/006/941/084/small/abstract-small-hexagon-or-honeycomb-seamless-pattern-on-white-color-background-free-vector.jpg')`}}>
             <a href='#Landing'>Introduction</a>
             <a href='#Project'>Projects</a>
         </div>
