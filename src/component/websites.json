@@ -1,0 +1,63 @@
+[
+    {
+        "image":"screenshot/pizza.png",
+        "src":"https://pizza-store-sooty.vercel.app/",
+        "title":"Pizza Store",
+        "description":"Pizza Store Website. User can pick food categories from menus, and customize ingredients for pizzas. The shopping cart redirects to the checkout page",
+        "tech":[
+            {
+                "name": "React",
+                "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"
+            },
+            {
+                "name":"Tailwind",
+                "image":"https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb"
+            },
+            {
+                "name":"Material UI",
+                "image":"https://v4.material-ui.com/static/logo.png"
+            }
+            ]
+    },
+    {
+        "image":"screenshot/movie.png",
+        "src":"https://movie-website-opal.vercel.app/",
+        "title": "Movie Information Website",
+        "description":"My first frontend project. Displays information about animations, films, and TV-shows. Has login, search, filter, and comment function",
+        "tech":[
+            {
+                "name": "HTML",
+                "image":"https://cdn-icons-png.flaticon.com/512/732/732212.png"
+            },
+            {
+                "name":"CSS",
+                "image":"https://cdn-icons-png.flaticon.com/512/5968/5968242.png"
+            },
+            {
+                "name":"JAVASCRIPT",
+                "image":"https://e7.pngegg.com/pngimages/793/545/png-clipart-javascript-logo-computer-icons-vue-js-angle-text-thumbnail.png"
+            }
+            ]
+    },
+    {
+        "image":"screenshot/geocode.png",
+        "src":"https://geocode-website.herokuapp.com/",
+        "title": "Geocode API",
+        "description": "Converts GPS coordinates into streets addresses and vice verse. Stores data in database as 'Address - GPS' pairs, with create, read, and delete methods.",
+        "tech":[
+            {
+                "name": "NODEJS",
+                "image":"https://cdn-icons-png.flaticon.com/512/5968/5968322.png"
+            },
+            {
+                "name":"EXPRESSJS",
+                "image":"https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png"
+            },
+            {
+                "name":"MongoDB",
+                "image":"https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png"
+            }
+            ]
+        
+    }
+]
