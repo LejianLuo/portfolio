@@ -1,0 +1,63 @@
+{
+    "language":[
+        
+        {
+            "name":"HTML",
+            "image":"https://cdn-icons-png.flaticon.com/512/1532/1532556.png"
+        },
+        {
+            "name":"CSS",
+            "image":"https://cdn-icons-png.flaticon.com/512/5968/5968242.png"
+        },
+        {
+            "name":"JAVASCRIPT",
+            "image":"https://e7.pngegg.com/pngimages/793/545/png-clipart-javascript-logo-computer-icons-vue-js-angle-text-thumbnail.png"
+        },
+        {
+            "name":"JAVA",
+            "image":"https://cdn-icons-png.flaticon.com/512/226/226777.png"
+        }
+        
+    ],
+    "frontend":[
+        {
+            "name":"REACT",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"
+        },
+        {
+            "name":"REDUX",
+            "image":"https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/redux-icon.png"
+        },
+        {
+            "name":"TAILWIND",
+            "image":"https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb"
+        },
+        {
+            "name":"BOOTSTRAP",
+            "image":"https://cdn-icons-png.flaticon.com/512/5968/5968672.png"
+        },
+        {
+            "name":"MATERIAL UI",
+            "image":"https://v4.material-ui.com/static/logo.png"
+        }
+    ],
+    "backend":[
+        {
+            "name":"NODEJS",
+            "image":"https://cdn-icons-png.flaticon.com/512/5968/5968322.png"
+        },
+        {
+            "name":"EXPRESSJS",
+            "image":"https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png"
+        },
+        {
+            "name":"MONGODB",
+            "image":"https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png"
+        },
+        {
+            "name":"MONGOOSE",
+            "image":"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"
+        }
+    ]
+
+}

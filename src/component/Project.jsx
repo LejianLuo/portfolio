@@ -14,12 +14,12 @@ export default function Project(){
 function Website({site}){
     return(
 
-            <div className='flex lg:flex-row flex-col my-[50px] bg-purple-100 rounded-xl'>
-                <a href={site.src} target='_blank' rel="noreferrer"><img className=" rounded-xl w-fit h-fit lg:max-w-[450px] md:h-[300px]" src={site.image} alt='img'/></a>
+            <div className='flex flex-col my-[50px] bg-purple-100 rounded-xl'>
+                <a href={site.src} target='_blank' rel="noreferrer"><img className=" rounded-xl w-fit h-fit" src={site.image} alt='img'/></a>
                 <div className='p-[30px]'>
                 <h1 className='text-center my-[10px] text-gray-500 font-bold text-2xl'>{site.title}</h1>
                     <p className='text-gray-500 text-lg font-thin'>{site.description}</p>
-                    <div>
+                    <div className='text-center'>
                         {site.tech.map(item=>{
                             return(
                                 <div className='inline-flex gap-[5px] justify-between w-[100px] my-[20px] mx-[25px]'>
