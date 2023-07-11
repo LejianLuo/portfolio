@@ -3,7 +3,7 @@
         "image":"screenshot/employment.png",
         "src":"https://employment-client.vercel.app/",
         "title":"Employment Website",
-        "description":"Fullstack Indeed clone. Search, filter, and apply for jobs on the main page. All applied jobs are under applications tab. Go to Resume tab to edit resume. Demo accounts under login page",
+        "description":"Fullstack Indeed clone. Search, filter, and apply for jobs on the main page. All applied jobs are under applications tab. Go to Resume tab to edit resume. Demo accounts under login page. (Backend data may take several seconds to load)",
         "tech":[
             {
                 "name": "React",
